@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Tripathi</h1>
 <h3 align="center">A passionate Data Professional</h3>
 
-- 🌱 I’m currently learning **Data Analytics, Azure Data Engineering**
+- 🌱 I’m currently learning **Azure Data Engineering**
+
+- 🌱 Next target is to master feeding quality data to **Vector Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujju1997?tab=repositories](https://github.com/Ujju1997?tab=repositories)
 
