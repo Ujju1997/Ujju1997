@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Tripathi</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Professional</h3>
 
-- 🌱 I’m currently learning **Data Analytics, Machine Learning**
+- 🌱 I’m currently learning **Data Analytics, Azure Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujju1997?tab=repositories](https://github.com/Ujju1997?tab=repositories)
 
-- 💬 Ask me about **Data, SQL, Pandas, Analytics**
+- 💬 Ask me about **Data, SQL, Pandas, Analytics, Pyspark**
 
 - 📫 How to reach me **Ujjwal.btripathi@gmail.com**
 
