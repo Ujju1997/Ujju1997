@@ -23,7 +23,7 @@
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW01r0dMibrc-lCAqWr42lL58wUbDBwdIZvj1XcGD3&s" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439"    alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://upload.wikimedia.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439"    alt="pyspark" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   </p>
