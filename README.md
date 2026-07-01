@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Tripathi</h1>
 <h3 align="center">A passionate Data Professional</h3>
 
-- 🌱 I’m currently learning **Azure Data Engineering**
+- 🌱 I’m  a **Azure Data Engineer**
 
 - 🌱 Next target is to master feeding quality data to **Vector Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujju1997?tab=repositories](https://github.com/Ujju1997?tab=repositories)
 
-- 💬 Ask me about **Data, SQL, Pandas, Analytics, Pyspark**
+- 💬 Ask me about **Data, SQL, Pandas, Analytics, Pyspark, ADF, Synapse, Azure Databricks**
 
 - 📫 How to reach me **Ujjwal.btripathi@gmail.com**
 
