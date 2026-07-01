@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Tripathi</h1>
 <h3 align="center">A passionate Data Professional</h3>
 
-- 🌱 I’m  a **Azure Data Engineer**
+- 🌱 I’m  an **Azure Data Engineer**
 
 - 🌱 Next target is to master feeding quality data to **Vector Databases**
 
